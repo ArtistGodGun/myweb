@@ -56653,7 +56653,7 @@ A.d4(new A.br(s,r,"flutter web plugins",p,null,!1))}},
 $S:10}
 A.Wn.prototype={}
 A.Cz.prototype={
-N(a){return new A.tu(B.E0,"\ud64d\uac74\ud76c \uc774\ub825\uc11c",A.adC(null,"Noto_Serif_KR",B.fh,null),null)}}
+N(a){return new A.tu(B.E0,"\ud64d\uac74\ud76c",A.adC(null,"Noto_Serif_KR",B.fh,null),null)}}
 A.tp.prototype={
 ai(){return new A.Io(B.l)}}
 A.Io.prototype={
